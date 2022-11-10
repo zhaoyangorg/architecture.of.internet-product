@@ -36,14 +36,14 @@
 ## 提交经典技术架构文章
 欢迎提交 Pull Request, 或者 Github上面提交Issue， 贴上您觉得经典的架构介绍PPT/PDF或者网页URL。
 
-## 《后端架构师技术图谱》
-[《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome)
-
+## 相关推荐
+* [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome)
+* [国内各大技术会议活动资料汇总，如：QCon，全球运维技术大会，全球技术领导力峰会，架构师峰会等](https://github.com/baiyutang/ppt)
 ## 互联网架构/电商/高并发架构交流QQ群
 
 群名称：互联网公司架构交流
 
-群号：185557854
+群号：895960322
 
 不定期分享一线互联网公司技术架构，电商架构，高并发系统架构，大数据架构，扫码加入QQ群：
 
